@@ -1,0 +1,11 @@
+{
+    "table": "employees",
+    "fields": "*",
+    "conditions": {
+      "salary": {
+        "operator": ">",
+        "value": 52000
+        }
+    }
+  }
+  
