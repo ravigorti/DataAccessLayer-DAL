@@ -3,6 +3,7 @@
     "fields": "*",
     "conditions": {
       "emp_name": "bob_jones"
-    }
+    },
+    "view_name": "fifth_view"
   }
   
